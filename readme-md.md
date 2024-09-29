@@ -31,6 +31,4 @@ This repository contains implementations of various sorting algorithms in Python
 
 Feel free to contribute by adding new sorting algorithms or improving the existing ones. Please submit a pull request with your changes.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
